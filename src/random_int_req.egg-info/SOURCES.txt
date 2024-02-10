@@ -1,0 +1,12 @@
+pyproject.toml
+setup.cfg
+setup.py
+src/random_int_req/__init__.py
+src/random_int_req/print_request_random.py
+src/random_int_req.egg-info/PKG-INFO
+src/random_int_req.egg-info/SOURCES.txt
+src/random_int_req.egg-info/dependency_links.txt
+src/random_int_req.egg-info/not-zip-safe
+src/random_int_req.egg-info/requires.txt
+src/random_int_req.egg-info/top_level.txt
+tests/test_print_request_random.py

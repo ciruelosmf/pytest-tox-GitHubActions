@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: random-int-req
+Version: 0.1.0
+Summary: request a random int to an API
+Home-page: https://github.com/ciruelosmf/pytest-tox-GitHubActions
+Author: matías ciruelos
+Author-email: ciruelosmf@gmail.com
+Platform: unix
+Platform: linux
+Platform: osx
+Platform: cygwin
+Platform: win32
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Provides-Extra: testing
