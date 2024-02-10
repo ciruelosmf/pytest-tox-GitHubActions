@@ -16,4 +16,4 @@ commands used
 pip install -e .
 
 
-![Tests](https://github.com/mCodingLLC/SlapThatLikeButton-TestingStarterProject/actions/workflows/tests.yml/badge.svg)
+![Tests](https://github.com/ciruelosmf/pytest-tox-GitHubActions/actions/workflows/tests.yml/badge.svg)
